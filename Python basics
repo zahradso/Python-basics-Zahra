@@ -1,0 +1,8 @@
+number=float(input("give a decimal number"))
+round_number=round(number)
+if round_number<number
+print("rounded down")
+elif round_number>number
+print("rounded up")
+else:
+print("not at all")
